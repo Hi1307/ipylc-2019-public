@@ -1,3 +1,4 @@
+
 # IPYLC 2019 Public Files
 Public frontend, including assets, for the IPYLC 2019 website.
 
@@ -8,5 +9,4 @@ Public frontend, including assets, for the IPYLC 2019 website.
  3. [outdated-browser](https://github.com/burocratik/outdated-browser) 1.1.5 (basically only blocks IE)
  4. [flag-icon-css](https://github.com/lipis/flag-icon-css) 3.2.1 (for placards)
  ## Licensing
- Except where indicated, the project is licensed under CC-BY-NC-ND 3.0 Singapore.
-
+ Except where indicated, the project is licensed under CC-BY-NC-ND 3.0 Singapore. The full text to the license can be found under /license.md
